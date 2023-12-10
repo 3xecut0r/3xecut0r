@@ -8,7 +8,6 @@
 <a href="https://dev.to/3xecut0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3xecut0r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/panpukha-oleksii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panpukha-oleksii" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21073379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21073379" height="30" width="40" /></a>
-<a href="https://instagram.com/lehaqqqqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lehaqqqqq" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/antibiotic001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="antibiotic001" height="30" width="40" /></a>
 <a href="https://discord.gg/_antibiotic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_antibiotic" height="30" width="40" /></a>
 </p>
