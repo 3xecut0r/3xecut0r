@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Panpukha Oleksii</h1>
-<h3 align="center">Back-end Developer (Python)</h3>
+<h1 align="center">Hi 👋, I'm Oleksii Panpukha</h1>
+<h3 align="center">Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3xecut0r&label=Profile%20views&color=063755&style=flat-square" alt="3xecut0r" /> </p>
 
